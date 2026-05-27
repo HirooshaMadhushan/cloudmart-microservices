@@ -1,0 +1,49 @@
+# Dependencies
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Environment files
+.env
+.env.*
+
+# Docker
+docker-data/
+*.pid
+
+# Build folders
+dist/
+build/
+coverage/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+
+# Java
+target/
+*.class
+
+# Temporary files
+tmp/
+temp/
+
+# Prisma
+generated/
+
+# Testing
+coverage/
+
+# Misc
+*.pem
