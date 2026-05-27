@@ -3,6 +3,7 @@ name: CloudMart CI/CD
 on:
   push:
     branches:
+      - master
       - main
       - develop
 
